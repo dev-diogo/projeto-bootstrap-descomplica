@@ -1,0 +1,24 @@
+header {
+    display: flex;
+    width: 100%;
+}
+
+
+.carousel-innerr > .carousel-itemm > img {
+    width: 400px;
+    height: 200px; 
+  }
+
+
+  .immg {
+    width: 60px;
+    height: 50px;
+  }
+
+  figure img {
+   border-radius: 30px;
+}
+
+.bor-rad {
+    border-radius: 10px;
+}
